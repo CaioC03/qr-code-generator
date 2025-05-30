@@ -14,3 +14,36 @@ Este é um simples gerador de QR Code feito com **React**. Ele permite que o usu
 - Gerar QR Code visualizado em um `<canvas>`
 - Fazer download da imagem do QR Code em PNG
 - Resetar o formulário e limpar o canvas
+
+## 💻 Como usar
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
+
+## 2. Instale as dependências
+
+```bash
+npm install
+```
+
+## 3. Rode o projeto
+```bash
+npm run dev
+```
+
+## 4. Acesse no navegador
+```bash
+http://localhost:
+```
+
+## 📁 Estrutura Básica
+```bash
+.
+├── App.css
+├── App.jsx
+├── main.jsx
+└── index.html
+```
